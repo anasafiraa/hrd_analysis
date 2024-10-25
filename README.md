@@ -1,6 +1,4 @@
-# hrd_analysis
-
-![Avatar](https://avatars.githubusercontent.com/anasafiraa =80x80)
+<img src="https://avatars.githubusercontent.com/anasafiraa" alt="Avatar" width="80" height="80">
 
 **Username:** anasafiraa  
 **Repository Name:** hrd_analysis
@@ -9,6 +7,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/anasafiraa/hrd_analysis)
 ![GitHub stars](https://img.shields.io/github/stars/anasafiraa/hrd_analysis)
 ![GitHub forks](https://img.shields.io/github/forks/anasafiraa/hrd_analysis)
+
 
 
 # hrd_analysis
