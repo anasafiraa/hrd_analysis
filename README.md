@@ -1,14 +1,15 @@
 <div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
   <!-- Bagian Kiri: Username dan Nama Repositori -->
-  <div style="flex: 1;">
+  <div>
     <h2>anasafiraa</h2>
-    <h1>hrd_analysis</h1>
+    <h1 style="font-size: 2em; margin-bottom: 0.2em;">hrd_analysis</h1>
   </div>
 
   <!-- Bagian Kanan: Avatar -->
-  <div style="margin-left: 20px;">
-    <img src="https://avatars.githubusercontent.com/anasafiraa" alt="Avatar" width="100" height="100">
+  <div>
+    <img src="https://avatars.githubusercontent.com/anasafiraa" alt="Avatar" width="80" height="80" style="border-radius: 10px;">
   </div>
 
 </div>
@@ -18,6 +19,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/anasafiraa/hrd_analysis)
 ![GitHub stars](https://img.shields.io/github/stars/anasafiraa/hrd_analysis)
 ![GitHub forks](https://img.shields.io/github/forks/anasafiraa/hrd_analysis)
+
 
 
 
