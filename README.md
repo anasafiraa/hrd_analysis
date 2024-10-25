@@ -1,18 +1,3 @@
-# anasafiraa/hrd_analysis
-
-<img src="https://avatars.githubusercontent.com/anasafiraa?size=60" align="right" />
-
-## hrd_analysis
-
-### Contributor Stats
-
-![GitHub contributors](https://img.shields.io/github/contributors/anasafiraa/hrd_analysis)
-![GitHub issues](https://img.shields.io/github/issues/anasafiraa/hrd_analysis)
-![GitHub stars](https://img.shields.io/github/stars/anasafiraa/hrd_analysis)
-![GitHub forks](https://img.shields.io/github/forks/anasafiraa/hrd_analysis)
-
-
-
 # hrd_analysis
 
 ## INTRODUCTION
