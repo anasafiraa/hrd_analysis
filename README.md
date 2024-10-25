@@ -1,9 +1,15 @@
+# hrd_analysis
+
+![Avatar](https://avatars.githubusercontent.com/anasafiraa =80x80)
+
+**Username:** anasafiraa  
+**Repository Name:** hrd_analysis
+
 ![GitHub contributors](https://img.shields.io/github/contributors/anasafiraa/hrd_analysis)
 ![GitHub issues](https://img.shields.io/github/issues/anasafiraa/hrd_analysis)
 ![GitHub stars](https://img.shields.io/github/stars/anasafiraa/hrd_analysis)
 ![GitHub forks](https://img.shields.io/github/forks/anasafiraa/hrd_analysis)
-![Avatar](https://avatars.githubusercontent.com/anasafiraa)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasafiraa&repo=hrd_analysis)
+
 
 # hrd_analysis
 
