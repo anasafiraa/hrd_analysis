@@ -1,3 +1,26 @@
+# anasafiraa / hrd_analysis
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/anasafiraa" alt="Avatar" width="100" height="100" style="border-radius: 50%;">
+</p>
+
+<h1 align="center">hrd_analysis</h1>
+
+<p align="center">
+  <a href="https://github.com/anasafiraa/hrd_analysis/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/anasafiraa/hrd_analysis" alt="GitHub contributors">
+  </a>
+  <a href="https://github.com/anasafiraa/hrd_analysis/issues">
+    <img src="https://img.shields.io/github/issues/anasafiraa/hrd_analysis" alt="GitHub issues">
+  </a>
+  <a href="https://github.com/anasafiraa/hrd_analysis/stargazers">
+    <img src="https://img.shields.io/github/stars/anasafiraa/hrd_analysis" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/anasafiraa/hrd_analysis/network">
+    <img src="https://img.shields.io/github/forks/anasafiraa/hrd_analysis" alt="GitHub forks">
+  </a>
+</p>
+
 # hrd_analysis
 
 ## INTRODUCTION
