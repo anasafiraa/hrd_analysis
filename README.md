@@ -1,6 +1,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/anasafiraa/hrd_analysis?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/anasafiraa/hrd_analysis?style=social)
 ![GitHub Contributors](https://img.shields.io/github/contributors/anasafiraa/hrd_analysis)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anasafiraa&repo=hrd_analysis)
+
 
 # hrd_analysis
 
