@@ -22,18 +22,23 @@ This project aims to provide a comprehensive insight into HR data, covering fact
 2. - Production with 209 employees indicates the company’s primary focus on production. Monitoring efficiency is essential.
    - IT/IS with 50 employees underscores the importance of technology. Enhancing tech systems could lead to operational gains.
    - Sales has only 31 employees, suggesting room for expansion to drive sales growth.
+   ![Employee Distribution by Department](https://github.com/anasafiraa/hrd_analysis/blob/main/images/Employee%20Distribution%20by%20Department.png)
 3. - Lower-paid employees are more likely to resign voluntarily, suggesting a link between salary and retention.
    - High-paid employees terminated for cause indicate that a higher salary doesn't necessarily ensure better performance.
+   ![Average Salary by Employment Status](https://github.com/anasafiraa/hrd_analysis/blob/main/images/Average%20Salary%20by%20Employment%20Status.png)
 4. - Employees with low engagement tend to have higher absenteeism, suggesting that engagement significantly influences attendance levels.
    - Higher engagement generally leads to lower absenteeism, implying that engagement improvement programs could effectively reduce absenteeism.
 5. - Employees who are widowed or divorced tend to have higher performance scores, suggesting they might be more focused on work.
    - Employees who are married or single show slightly lower performance, possibly influenced by family responsibilities or personal life.
+   ![Average Performance Score by Marital Status](https://github.com/anasafiraa/hrd_analysis/blob/main/images/Average%20Performance%20Score%20by%20Marital%20Status.png)
 6. - Absenteeism does not fully correlate with engagement or satisfaction. Employees with high engagement and satisfaction may still have high absenteeism.
    - Variability in the data suggests that other factors may influence absenteeism, such as workload stress, health, or personal conditions.
 7. - Employee Referral is an effective recruitment source for finding high-performing employees.
    - Online-based recruitment sources, while easily accessible, show slightly lower performance, indicating that stricter screening may be necessary.
+   ![Average Performance Score by Recruitment Source](https://github.com/anasafiraa/hrd_analysis/blob/main/images/Average%20Performance%20Score%20by%20Recruitment%20Source.png)
 8. - Participation in special projects appears to positively impact performance, especially if employees are involved in several projects.
    - Low involvement (1 project) or no involvement at all shows lower performance, indicating the importance of active participation in projects to enhance performance.
+   ![Average Performance Score by Special Project](https://github.com/anasafiraa/hrd_analysis/blob/main/images/Average%20Performance%20Score%20by%20Special%20Projects%20Count.png)
 
 # Recommendations
 1. - Create a clear career path and internal promotion program to reduce terminations due to "Another position." Provide relevant training and skill enhancement opportunities to help employees grow within the company.
