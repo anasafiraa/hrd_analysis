@@ -18,6 +18,7 @@ This project aims to provide a comprehensive insight into HR data, covering fact
 1. - The most frequent reason for termination is "Another position", with a total of 20 terminations. This suggests that many employees are leaving the company because they have found opportunities elsewhere.
    - "Unhappy" is the second most common reason with 14 terminations, indicating potential dissatisfaction among employees with aspects of the work environment, management, or job expectations.
    - "More money" comes in third with 11 terminations, implying that compensation could be a significant factor in employees' decisions to leave the company.
+   ![Most Common Term Reason](https://github.com/anasafiraa/hrd_analysis/blob/main/images/Most%20Common%20Termination%20Reasons.png)
 2. - Production with 209 employees indicates the company’s primary focus on production. Monitoring efficiency is essential.
    - IT/IS with 50 employees underscores the importance of technology. Enhancing tech systems could lead to operational gains.
    - Sales has only 31 employees, suggesting room for expansion to drive sales growth.
