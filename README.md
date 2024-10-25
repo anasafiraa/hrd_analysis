@@ -1,21 +1,21 @@
 # anasafiraa / hrd_analysis
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/anasafiraa" alt="Avatar" width="120" height="120" style="border-radius: 50%; margin-bottom: 20px;">
+  <img src="https://avatars.githubusercontent.com/anasafiraa" alt="Avatar" width="100" height="100" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  <a href="https://github.com/anasafiraa/hrd_analysis/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/anasafiraa/hrd_analysis?color=blue" alt="GitHub contributors">
+  <a href="#">
+    <img src="https://img.shields.io/badge/contributors-1-brightgreen" alt="Contributors">
   </a>
-  <a href="https://github.com/anasafiraa/hrd_analysis/issues">
-    <img src="https://img.shields.io/github/issues/anasafiraa/hrd_analysis?color=green" alt="GitHub issues">
+  <a href="#">
+    <img src="https://img.shields.io/badge/issues-0-lightgrey" alt="Issues">
   </a>
-  <a href="https://github.com/anasafiraa/hrd_analysis/stargazers">
-    <img src="https://img.shields.io/github/stars/anasafiraa/hrd_analysis?color=yellow" alt="GitHub stars">
+  <a href="#">
+    <img src="https://img.shields.io/badge/stars-0-lightgrey" alt="Stars">
   </a>
-  <a href="https://github.com/anasafiraa/hrd_analysis/network">
-    <img src="https://img.shields.io/github/forks/anasafiraa/hrd_analysis?color=orange" alt="GitHub forks">
+  <a href="#">
+    <img src="https://img.shields.io/badge/forks-0-lightgrey" alt="Forks">
   </a>
 </p>
 
