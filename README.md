@@ -1,12 +1,23 @@
-<img src="https://avatars.githubusercontent.com/anasafiraa" alt="Avatar" width="80" height="80">
+<div style="display: flex; align-items: center;">
 
-**Username:** anasafiraa  
-**Repository Name:** hrd_analysis
+  <!-- Bagian Kiri: Username dan Nama Repositori -->
+  <div style="flex: 1;">
+    <h2>ife-david</h2>
+    <h1>SQL_PROJECT_JOB_POSITION</h1>
+  </div>
 
-![GitHub contributors](https://img.shields.io/github/contributors/anasafiraa/hrd_analysis)
-![GitHub issues](https://img.shields.io/github/issues/anasafiraa/hrd_analysis)
-![GitHub stars](https://img.shields.io/github/stars/anasafiraa/hrd_analysis)
-![GitHub forks](https://img.shields.io/github/forks/anasafiraa/hrd_analysis)
+  <!-- Bagian Kanan: Avatar -->
+  <div style="margin-left: 20px;">
+    <img src="https://avatars.githubusercontent.com/your_username" alt="Avatar" width="100" height="100">
+  </div>
+
+</div>
+
+<!-- Statistik Repositori -->
+![GitHub contributors](https://img.shields.io/github/contributors/your_username/your_repo)
+![GitHub issues](https://img.shields.io/github/issues/your_username/your_repo)
+![GitHub stars](https://img.shields.io/github/stars/your_username/your_repo)
+![GitHub forks](https://img.shields.io/github/forks/your_username/your_repo)
 
 
 
