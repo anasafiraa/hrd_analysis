@@ -1,24 +1,15 @@
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 10px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
+# anasafiraa/hrd_analysis
 
-  <!-- Bagian Kiri: Username dan Nama Repositori -->
-  <div>
-    <h2 style="margin: 0; font-size: 1.5em;">anasafiraa</h2>
-    <h1 style="margin: 0; font-size: 2em;">hrd_analysis</h1>
-  </div>
+![Avatar](https://avatars.githubusercontent.com/anasafiraa?size=80) 
 
-  <!-- Bagian Kanan: Avatar -->
-  <div>
-    <img src="https://avatars.githubusercontent.com/anasafiraa" alt="Avatar" width="100" height="100" style="border-radius: 10px; margin-left: 20px;">
-  </div>
-</div>
+## hrd_analysis
 
-<!-- Statistik Repositori di Bawah -->
-<div style="text-align: center; margin-top: 15px;">
-  ![GitHub contributors](https://img.shields.io/github/contributors/anasafiraa/hrd_analysis)
-  ![GitHub issues](https://img.shields.io/github/issues/anasafiraa/hrd_analysis)
-  ![GitHub stars](https://img.shields.io/github/stars/anasafiraa/hrd_analysis)
-  ![GitHub forks](https://img.shields.io/github/forks/anasafiraa/hrd_analysis)
-</div>
+### Contributor Stats
+
+![GitHub contributors](https://img.shields.io/github/contributors/anasafiraa/hrd_analysis)
+![GitHub issues](https://img.shields.io/github/issues/anasafiraa/hrd_analysis)
+![GitHub stars](https://img.shields.io/github/stars/anasafiraa/hrd_analysis)
+![GitHub forks](https://img.shields.io/github/forks/anasafiraa/hrd_analysis)
 
 
 
