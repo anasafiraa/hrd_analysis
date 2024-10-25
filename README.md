@@ -1,6 +1,6 @@
 # anasafiraa/hrd_analysis
 
-![Avatar](https://avatars.githubusercontent.com/anasafiraa?size=80) 
+<img src="https://avatars.githubusercontent.com/anasafiraa?size=60" align="right" />
 
 ## hrd_analysis
 
