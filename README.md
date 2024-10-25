@@ -1,23 +1,3 @@
-# anasafiraa / hrd_analysis
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/anasafiraa" alt="Avatar" width="100" height="100" style="border-radius: 50%;">
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/contributors-1-brightgreen" alt="Contributors">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/issues-0-lightgrey" alt="Issues">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/stars-0-lightgrey" alt="Stars">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/forks-0-lightgrey" alt="Forks">
-  </a>
-</p>
 
 # hrd_analysis
 
